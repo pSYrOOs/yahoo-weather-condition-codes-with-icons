@@ -1,6 +1,6 @@
 <?php
 
-$condions = array(
+$conditions = array(
 	'0' => '<i class="wi wi-tornado"></i>',           // tornado
 	'1' => '<i class="wi wi-rain-wind"></i>',         // tropical storm
 	'2' => '<i class="wi wi-hurricane"></i>',         // hurricane
