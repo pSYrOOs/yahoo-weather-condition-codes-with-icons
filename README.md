@@ -4,7 +4,7 @@ Array keys are Yahoo weather API condition codes.
 
 Array values are Weather Themed Icons CSS library - https://github.com/erikflowers/weather-icons
 
-# Get started
+# Usage
 
 1) Include Themed Icons CSS library - https://github.com/erikflowers/weather-icons
 
